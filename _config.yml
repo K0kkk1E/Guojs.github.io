@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Guo Jinsong"
+  name             : "Jinsong Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Commonwealth of world"
+  bio              : "Common wealth of world"
   location         : "China"
-  employer         : "Southern University of Science and Technology"
+  employer         : "SUSTech"
   uri              : # URL
   email            : "12533462@mail.sustech.edu.cn" 
 
